@@ -1,0 +1,17 @@
+{
+  "iri": "http://dataspecer.com/packages/local-root/4ba63281-12b2-4961-8211-24624d9aa646/190315de-de8a-48e5-88ad-0925fd85fefe",
+  "projectIri": "10337097-8cb0-4cf6-b47e-11cbe61399d4",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://www.w3.org/TR/dx-prof/rdf/prof.ttl",
+    "label": {
+      "en": "prof"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
